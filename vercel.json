@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/:type", "destination": "/index.js" }
+  ]
+}
